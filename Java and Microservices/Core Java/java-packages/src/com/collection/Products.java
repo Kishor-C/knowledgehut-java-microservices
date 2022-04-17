@@ -24,4 +24,14 @@ public class Products {
 		return price;
 	}
 	
+	@Override
+	public int hashCode() {
+		return getId();
+	}
+	@Override
+	public boolean equals(Object obj) {
+		Products p = (Products)obj;
+		return p.getId() == this.getId();
+	}
+	
 }

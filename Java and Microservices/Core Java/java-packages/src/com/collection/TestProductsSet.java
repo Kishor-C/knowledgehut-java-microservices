@@ -15,7 +15,9 @@ public class TestProductsSet {
 		set.add(p2);
 		set.add(p3);
 		set.add(p4);
-		
+		System.out.println("P2 hashCode: "+p2.hashCode());
+		System.out.println("P4 hashCode: "+p4.hashCode());
+		System.out.println("equality: "+p2.equals(p4));
 		for(Products p : set) {
 			System.out.println(p);
 		}
