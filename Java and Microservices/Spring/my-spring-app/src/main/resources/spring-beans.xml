@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- Scenario 2 where framework creates object-->
+    <!-- bean definitions here -->
+	<bean id = "i1" class = "com.examples.TestDao2"></bean>
+	
+	<bean id = "i2" class = "com.examples.TestService">
+		<!-- <property name = "dao" ref = "i1"></property> --> <!-- setDao(dao) -->
+		<constructor-arg index = "0" ref = "i1"></constructor-arg> <!-- calls TestService(TestDao dao) -->
+	</bean>
+</beans>
