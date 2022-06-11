@@ -1,0 +1,7 @@
+# mention the file you want to load
+spring:
+  application:
+    name: hello
+
+# mention the configuration server url so this program connects to it 
+  cloud:    config:      uri: http://localhost:8888/
