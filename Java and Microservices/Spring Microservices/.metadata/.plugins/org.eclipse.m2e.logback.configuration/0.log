@@ -1690,3 +1690,67 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2022-06-11 20:16:03,916 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-06-11 20:16:03,921 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-06-11 20:16:03,923 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\circuit-breaker-demo.zip_expanded\circuit-breaker-demo\src\test\resources
+2022-06-20 06:58:37,045 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-06-20 07:48:57,402 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:48:57,481 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-20 07:48:57,587 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-20 07:48:57,628 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:48:57,640 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\circuit-breaker-demo.zip_expanded\circuit-breaker-demo\src\test\resources
+2022-06-20 07:49:07,455 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:49:07,459 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-20 07:49:07,480 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-20 07:49:07,620 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:49:07,621 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\config-client-demo.zip_expanded\config-client-demo\src\test\resources
+2022-06-20 07:49:13,655 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:49:13,657 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-20 07:49:13,683 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-20 07:49:13,697 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:49:13,697 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\config-server-demo.zip_expanded\config-server-demo\src\test\resources
+2022-06-20 07:49:19,467 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:49:19,469 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-20 07:49:19,484 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-20 07:49:19,489 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:49:19,490 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\first-microservice-app.zip_expanded\first-microservice-app\src\test\resources
+2022-06-20 07:49:24,199 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:49:24,201 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-20 07:49:24,244 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-20 07:49:24,300 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:49:24,301 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\second-microservice-app.zip_expanded\second-microservice-app\src\test\resources
+2022-06-20 07:49:29,359 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:49:29,359 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-20 07:49:29,378 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-20 07:49:29,386 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:49:29,387 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\service-discovery-app.zip_expanded\service-discovery-app\src\test\resources
+2022-06-20 07:49:33,785 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:49:33,786 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-20 07:49:33,834 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-20 07:49:33,884 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:49:33,885 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\third-microservice-feign-app.zip_expanded\third-microservice-feign-app\src\test\resources
+2022-06-20 07:53:56,950 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:53:56,957 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-20 07:53:56,958 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-20 07:53:57,009 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 07:53:57,009 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\service-discovery-app.zip_expanded\service-discovery-app\src\test\resources
+2022-06-20 08:03:00,817 [Worker-20: Launching Executing clean in D__Training Stuffs_Corporate Clients_Online Trainings_Java and Microservices_Spring Microservices_service-discovery-app.zip_expanded_service-discovery-app] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\service-discovery-app.zip_expanded\service-discovery-app
+2022-06-20 08:03:00,823 [Worker-20: Launching Executing clean in D__Training Stuffs_Corporate Clients_Online Trainings_Java and Microservices_Spring Microservices_service-discovery-app.zip_expanded_service-discovery-app] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-06-20 08:03:14,956 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 08:03:14,965 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-20 08:03:14,975 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-20 08:03:14,987 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 08:03:14,987 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\service-discovery-app.zip_expanded\service-discovery-app\src\test\resources
+2022-06-20 08:03:27,227 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-06-20 08:03:36,790 [Worker-33: Launching service-discovery-app (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\service-discovery-app.zip_expanded\service-discovery-app
+2022-06-20 08:03:36,790 [Worker-33: Launching service-discovery-app (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2022-06-20 08:10:34,145 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-06-20 08:10:41,743 [Worker-32: Launching service-discovery-app (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\service-discovery-app.zip_expanded\service-discovery-app
+2022-06-20 08:10:41,744 [Worker-32: Launching service-discovery-app (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2022-06-20 08:10:54,915 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 08:10:54,917 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-20 08:10:54,936 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-20 08:10:54,943 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 08:10:54,943 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\service-discovery-app.zip_expanded\service-discovery-app\src\test\resources
+2022-06-20 08:12:07,886 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 08:12:07,887 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-20 08:12:07,892 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-20 08:12:07,912 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-20 08:12:07,913 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Spring Microservices\service-discovery-app.zip_expanded\service-discovery-app\src\test\resources
