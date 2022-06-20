@@ -1,0 +1,9 @@
+package com.org;
+
+public class TestInheritancePolyEncapsulation {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

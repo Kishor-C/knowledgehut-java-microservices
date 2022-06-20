@@ -1,0 +1,11 @@
+package com.org;
+
+public class Employee extends Person {
+	// name & age is inheritted in the form getters & setters
+	private int id;
+	private double salary;
+	
+	public Employee(int id, String name, int age, double salary) {
+		super(name, age); 
+	}
+}

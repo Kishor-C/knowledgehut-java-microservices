@@ -1,0 +1,7 @@
+package com.org;
+
+public class Employee extends Person {
+
+	private int id;
+	private double salary;
+}

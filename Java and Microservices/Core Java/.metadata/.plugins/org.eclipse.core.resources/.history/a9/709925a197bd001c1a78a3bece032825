@@ -1,0 +1,13 @@
+package com.org;
+
+import java.util.Scanner;
+
+public class TestScanner {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter an int");
+		scan.nextInt();
+	}
+
+}

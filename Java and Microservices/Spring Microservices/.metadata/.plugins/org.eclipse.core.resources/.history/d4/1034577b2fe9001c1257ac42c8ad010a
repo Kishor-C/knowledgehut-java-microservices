@@ -1,0 +1,6 @@
+# mention the file you want to load
+spring:
+  application:
+    name: hello
+
+# mention the configuration server url

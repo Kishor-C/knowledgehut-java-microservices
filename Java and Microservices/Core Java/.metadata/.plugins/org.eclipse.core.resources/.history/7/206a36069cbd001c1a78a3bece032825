@@ -1,0 +1,33 @@
+package com.collection;
+
+import java.util.Scanner;
+import java.util.Set;
+import java.util.TreeSet;
+
+public class TestSets {
+
+	public static void main(String[] args) {
+		Set<Integer> set = new TreeSet<Integer>();
+		set.add(50);
+		set.add(20);
+		set.add(40);
+		set.add(30);
+		set.add(10);
+		System.out.println(set);
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter a number to search:");
+		int num = scan.nextInt();
+		boolean flag = false;
+		for(int i : set) {
+			if(i == num) {
+				flag = true;
+			}
+		}
+		if(flag) {
+			System.out.println(num+" is found");
+		} else {
+			System.out.println(num+" is not found");
+		}
+	}
+
+}

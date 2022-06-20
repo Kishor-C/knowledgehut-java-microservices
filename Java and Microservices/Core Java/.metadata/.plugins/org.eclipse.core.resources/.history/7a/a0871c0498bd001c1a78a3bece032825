@@ -1,0 +1,15 @@
+package com.org;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
+
+public class TestDateTime {
+
+	public static void main(String[] args) {
+		LocalDate today = LocalDate.now();
+		LocalDateTime dateTime = LocalDateTime.now();
+		LocalTime time = LocalTime.now();
+	}
+
+}

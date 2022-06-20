@@ -1,0 +1,12 @@
+package com.collection;
+
+import java.util.Set;
+import java.util.TreeSet;
+
+public class TestSets {
+
+	public static void main(String[] args) {
+		Set<Integer> set = new TreeSet<Integer>();
+	}
+
+}

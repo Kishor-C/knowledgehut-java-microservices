@@ -1,0 +1,9 @@
+package com.org;
+
+public class TestCustomException {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

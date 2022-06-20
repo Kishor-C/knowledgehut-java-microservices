@@ -1,0 +1,6 @@
+package com.org;
+
+@SuppressWarnings("serial")
+public class InsufficientBalanceException extends Exception {
+	
+}

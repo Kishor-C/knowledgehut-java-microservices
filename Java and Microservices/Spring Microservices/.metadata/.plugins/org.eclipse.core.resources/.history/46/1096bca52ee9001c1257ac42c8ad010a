@@ -1,0 +1,6 @@
+server:
+  port: 8888
+
+# specifying the Remote URL of the distributed configuration
+
+spring:  cloud:    config:      server:        git:          uri: https://github.com/Kishor-C/common-config.git

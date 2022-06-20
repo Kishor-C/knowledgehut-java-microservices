@@ -1,0 +1,21 @@
+package com.org;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
+
+public class TestDateTime {
+
+	public static void main(String[] args) {
+		LocalDate today = LocalDate.now();
+		LocalDateTime dateTime = LocalDateTime.now();
+		LocalTime time = LocalTime.now();
+		System.out.println("Current Date: "+today);
+		System.out.println("Current Date & Time: "+dateTime);
+		System.out.println("Current Time: "+time);
+		// formatting date & time
+		DateTimeFormatter formatter = DateTimeFormatter.ofPattern("");
+	}
+
+}

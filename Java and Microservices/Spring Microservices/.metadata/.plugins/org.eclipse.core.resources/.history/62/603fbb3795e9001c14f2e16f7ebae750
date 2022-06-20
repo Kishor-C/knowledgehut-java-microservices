@@ -1,0 +1,3 @@
+spring:  application:    name: CB-APP
+server:
+  port: 8082# actuator endpoints to check the application status like health, metricsmanagement:  endpoints:    web:      exposure:        include: "*"  endpoint:    health:      show-details: always  health:    circuitbreakers:      enabled: trueresilience4j:  circuitbreaker:    instances:     fetchFirstApp:         register-health-indicator: true            

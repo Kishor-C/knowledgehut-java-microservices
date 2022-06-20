@@ -1,0 +1,8 @@
+package com.org;
+
+public class Student extends Person {
+
+	// student inherits person properties and behaviour
+	private int rollNo;
+	private String grade;
+}

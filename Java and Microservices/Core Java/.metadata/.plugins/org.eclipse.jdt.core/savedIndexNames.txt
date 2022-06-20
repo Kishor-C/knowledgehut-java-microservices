@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\Training Stuffs\Corporate Clients\Online Trainings\Java and Microservices\Core Java\.metadata\.plugins\org.eclipse.jdt.core
+2553623723.index
+4270142124.index
+1041984338.index
+638731724.index

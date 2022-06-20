@@ -1,0 +1,23 @@
+package com.org;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
+
+public class TestDateTime {
+
+	public static void main(String[] args) {
+		// date will be using dd, MM, yyyy to represent date, month & year
+		LocalDate today = LocalDate.now();
+		LocalDateTime dateTime = LocalDateTime.now();
+		// time will be using hh, ss, mm to represent hours, minutes & seconds
+		LocalTime time = LocalTime.now();
+		System.out.println("Current Date: "+today);
+		System.out.println("Current Date & Time: "+dateTime);
+		System.out.println("Current Time: "+time);
+		// formatting date & time
+		DateTimeFormatter formatterForDate = DateTimeFormatter.ofPattern("dd-MM-yyyy");
+	}
+
+}

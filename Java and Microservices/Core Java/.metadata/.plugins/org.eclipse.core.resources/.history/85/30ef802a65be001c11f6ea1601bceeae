@@ -1,0 +1,17 @@
+package com.org;
+
+public class TestCustomException {
+
+	public static void main(String[] args) {
+		
+	}
+
+	public static void withdraw(double amount) throws InsufficientBalanceException {
+		double balance = 40000;
+		if(amount > balance) {
+			
+		}
+		balance = balance - amount;
+		System.out.println("Amount debited, your balance is "+balance);
+	}
+}
